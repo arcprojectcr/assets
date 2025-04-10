@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minoan Ewer
+* source:	https://sketchfab.com/3d-models/minoan-ewer-3336c22c8b114743b1427f801fe85405
+* author:	portunes (https://sketchfab.com/portunes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minoan Ewer" (https://sketchfab.com/3d-models/minoan-ewer-3336c22c8b114743b1427f801fe85405) by portunes (https://sketchfab.com/portunes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
