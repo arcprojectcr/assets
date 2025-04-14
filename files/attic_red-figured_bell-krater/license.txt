@@ -1,0 +1,11 @@
+Model Information:
+* title:	Attic Red-figured bell-krater
+* source:	https://sketchfab.com/3d-models/attic-red-figured-bell-krater-25dd847c9fbf4805a5af8f9bffcf78c3
+* author:	Bonn Center for Digital Humanities (https://sketchfab.com/bcdh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Attic Red-figured bell-krater" (https://sketchfab.com/3d-models/attic-red-figured-bell-krater-25dd847c9fbf4805a5af8f9bffcf78c3) by Bonn Center for Digital Humanities (https://sketchfab.com/bcdh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
