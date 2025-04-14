@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mycenaean kylix
+* source:	https://sketchfab.com/3d-models/mycenaean-kylix-3c08842b04394e5991108cd6fe0a1f75
+* author:	Bonn Center for Digital Humanities (https://sketchfab.com/bcdh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mycenaean kylix" (https://sketchfab.com/3d-models/mycenaean-kylix-3c08842b04394e5991108cd6fe0a1f75) by Bonn Center for Digital Humanities (https://sketchfab.com/bcdh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
