@@ -1,0 +1,11 @@
+Model Information:
+* title:	ESS-2447CC Roman Vessel
+* source:	https://sketchfab.com/3d-models/ess-2447cc-roman-vessel-2f5c0e6af3a64dc696b116d2f0402cd4
+* author:	Mark.Jeffcock (https://sketchfab.com/Mark.Jeffcock)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ESS-2447CC Roman Vessel" (https://sketchfab.com/3d-models/ess-2447cc-roman-vessel-2f5c0e6af3a64dc696b116d2f0402cd4) by Mark.Jeffcock (https://sketchfab.com/Mark.Jeffcock) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

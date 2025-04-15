@@ -1,0 +1,11 @@
+Model Information:
+* title:	ESS-ED9F32 Roman Rotary Quern
+* source:	https://sketchfab.com/3d-models/ess-ed9f32-roman-rotary-quern-ae2626419a04470db2aa98521800d0f7
+* author:	Mark.Jeffcock (https://sketchfab.com/Mark.Jeffcock)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ESS-ED9F32 Roman Rotary Quern" (https://sketchfab.com/3d-models/ess-ed9f32-roman-rotary-quern-ae2626419a04470db2aa98521800d0f7) by Mark.Jeffcock (https://sketchfab.com/Mark.Jeffcock) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

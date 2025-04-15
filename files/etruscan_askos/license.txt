@@ -1,0 +1,11 @@
+Model Information:
+* title:	Etruscan Askos
+* source:	https://sketchfab.com/3d-models/etruscan-askos-63410d966b14492586af5c68c2e42a74
+* author:	ICS/HARL Ehrenberg Collection (https://sketchfab.com/harlehrenberg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Etruscan Askos" (https://sketchfab.com/3d-models/etruscan-askos-63410d966b14492586af5c68c2e42a74) by ICS/HARL Ehrenberg Collection (https://sketchfab.com/harlehrenberg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
